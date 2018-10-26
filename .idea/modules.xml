@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/alura-jogos.iml" filepath="$PROJECT_DIR$/.idea/alura-jogos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cev-python/.idea/cev-python.iml" filepath="$PROJECT_DIR$/../cev-python/.idea/cev-python.iml" />
     </modules>
   </component>
 </project>
